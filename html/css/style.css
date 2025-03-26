@@ -1,0 +1,136 @@
+body {
+    background-color: #162228;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+}
+
+.nav_bar {
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-8 {
+    /* margin-left: 50px; */
+    text-align: justify;
+    width: 700px;
+    height: 400px;
+}
+
+.col-4 {}
+
+.col-3.nav_logo {}
+
+.col-9 {}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-left: 600px;
+}
+
+.img_size {}
+
+.title_photo {
+    text-align: center;
+    margin-left: 130px;
+}
+
+.my_photo {
+    background: url(../images/photo_2024-05-19_21-38-00.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 450px;
+    height: 450px;
+    border-radius: 50px;
+    align-items: end;
+    margin-left: 70px;
+
+}
+
+.nav_logo {
+    background: url(../images/logo4.png) no-repeat center center;
+    background-size: 100%;
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: aliceblue;
+    color: rgb(80, 133, 188);
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 50%;
+}
+
+.index {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.reg {
+    margin-top: 50px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form_reg {
+    width: 800px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.col-12 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn_reg {
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    color: #3185af;
+    display: block;
+    margin: 0 auto;
+}
+
+.butt {
+    margin-top: 0px;
+    margin-top: 30px;
+}
