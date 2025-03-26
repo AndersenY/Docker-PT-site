@@ -1,4 +1,4 @@
 Для запуска:
 
-docker-compose build
+docker-compose build\n
 docker-compose up -d
