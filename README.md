@@ -1,5 +1,5 @@
 Для запуска:
 
-docker-compose build
-
 docker-compose up -d
+
+sudo apt install python3-setuptools
